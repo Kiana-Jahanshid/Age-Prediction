@@ -1,0 +1,8 @@
+wandb
+kaggle
+pandas
+numpy
+opencv-python
+tensorflow
+scikit-learn
+matplotlib
