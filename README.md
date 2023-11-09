@@ -8,15 +8,16 @@
 <br/>
 
 > ## 1_CNN Regression : <br/>
-> In this project , we want to predict age of the people .
-Despite of previous projects which we classified using CNN , we are going to have one output which is age . 
-so here we have to use `Regression` . 
+> In this project , we want to predict people's age .
+Despite of previous projects which we used classification method using CNN , Now we are going to have one output which is an age . 
+so here we have to use `Regression` method . 
 
 > ## 2_ Kaggle to Colab : <br/>
 > Here , we want to use a Kaggle Dataset named `UTKFace` .
 Now we can access dataset through kaggle , without downloading it directly :
-fist of all we have to Create New API Token , It will download `kaggle.json` file on your google colab .
-here are the instruction : <br/>
+frist of all we have to create New API Token , It will download `kaggle.json` file on your google colab .
+here is the instruction : <br/>
+
 1_ making a directory named Kaggle : <br/>
 ```
 !mkdir ~/.kaggle 
@@ -37,15 +38,15 @@ here are the instruction : <br/>
 -------------------------------------------------------------------------------------------------------------------------
 
 > ## 3_  Using wandb :
-> wandb or Weights & Biases, is a machine learning platform that allows you to track and visualize different aspects of the model training process in real-time. <br/>
-here is the link to this project : <br/>
+> wandb or Weights & Biases, is a machine learning platform that allows you to track & visualize different aspects of the model training process in real-time. <br/>
+here is the project wandb link : <br/>
 https://wandb.ai/kianajahanshid/Age_prediction_UTKFace?workspace=user-kianajahanshid
 
 <br/>
 <br/>
 
 # How to install
-use this command to install necessary libraries : 
+Run this command to install used libraries : 
 ```
 pip install -r requirements.txt 
 ```
@@ -54,7 +55,7 @@ pip install -r requirements.txt
 
 # How to run 
 you can run `Age_predictor_UTKFaceDataset.ipynb` file and train model ,
-or you can load_model with .h5 or .keras file which is in below google drive link : <br/>
+or else you can load_model with .keras file which is in below google drive link : <br/>
 
 https://drive.google.com/file/d/1-0K9oUBkDRGl8onp2ABVOZY2AYF5Y3ok/view?usp=drive_link 
 
