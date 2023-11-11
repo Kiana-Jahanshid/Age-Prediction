@@ -6,3 +6,4 @@ opencv-python
 tensorflow
 scikit-learn
 matplotlib
+deepface
