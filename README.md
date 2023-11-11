@@ -64,17 +64,27 @@ https://drive.google.com/file/d/1-0K9oUBkDRGl8onp2ABVOZY2AYF5Y3ok/view?usp=drive
 # Results : 
 + with our own picture : 
 <p float="center">
-    <img src  = "assets\res.JPG" width=350 /> 
+    <img src  = "assets/Capture.JPG" width=350 /> 
 </p>
 <br />
 
 + test other people :
 <p float="center">
-    <img src  = "assets\res_2.JPG" width=350 /> 
+    <img src  = "assets/res_2.JPG" width=350 /> 
 </p>
 <br />
 
 <p float="center">
-    <img src  = "assets\res_3.JPG" width=350 /> 
+    <img src  = "assets/res_3.JPG" width=350 /> 
+</p>
+<br />
+
+<p float="center">
+    <img src  = "assets/Capture2.JPG" width=350 /> 
+</p>
+<br />
+
+<p float="center">
+    <img src  = "assets/Capture3.JPG" width=350 /> 
 </p>
 <br />
